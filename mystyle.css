@@ -1,9 +1,10 @@
 body {
+    font size="50"
     background-color: lightblue;
 }
 
 .hidden-links{
-  text-decoration: underline;
-   color: #536482;
+
+   color: #536182;
 
 }
