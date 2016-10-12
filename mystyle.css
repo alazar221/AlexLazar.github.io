@@ -1,3 +1,9 @@
 body {
     background-color: lightblue;
 }
+
+.hidden-links{
+  text-decoration: underline;
+   text-decoration-color: red;
+
+}
